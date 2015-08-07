@@ -104,7 +104,8 @@ public enum Protocol
     public static List<Integer> supportedVersions = Arrays.asList(
             ProtocolConstants.MINECRAFT_1_7_2,
             ProtocolConstants.MINECRAFT_1_7_6,
-            ProtocolConstants.MINECRAFT_1_8
+            ProtocolConstants.MINECRAFT_1_8,
+            ProtocolConstants.MINECRAFT_1_9
     );
     /*========================================================================*/
     public final DirectionData TO_SERVER = new DirectionData( ProtocolConstants.Direction.TO_SERVER );
