@@ -4,6 +4,12 @@ The most reliable Minecraft server portal suite.
 ------------------------------------------------
 BungeeCord is a piece of Java software which allows a user to link multiple Minecraft servers together, allowing players to teleport between them and access advanced features. This makes it perfect for servers looking to expand their player base and spread across multiple gameplay styles.
 
+This 1.9 Build
+-------
+So this build has been updated to support the 1.9 snapshot (Currently 15w32c)
+
+It does contain *many* bugs and is currently probably not good to use. I'm new to playing with BungeeCord and have no idea what I'm doing...
+
 History
 -------
 For a long time developers have tried to create these mythical 'cloud' systems as outlined above. Until now, none of them have succeeded in making a fully open source and reliable 'cloud'. You may have already noticed my quoting of the word 'cloud', and this is one of the last times you will see it in this document. BungeeCord is **NOT** a 'cloud'. The actual meaning of the aforementioned word is quoted below:
